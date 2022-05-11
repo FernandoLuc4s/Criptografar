@@ -1,0 +1,11 @@
+C:\Users\User\OneDrive\Área de Trabalho\FMU\4° Semestre\Seguranca e Auditoria de Sistemas\APS\criptografar\criptografar\bin\Debug\criptografar.exe.config
+C:\Users\User\OneDrive\Área de Trabalho\FMU\4° Semestre\Seguranca e Auditoria de Sistemas\APS\criptografar\criptografar\bin\Debug\criptografar.exe
+C:\Users\User\OneDrive\Área de Trabalho\FMU\4° Semestre\Seguranca e Auditoria de Sistemas\APS\criptografar\criptografar\bin\Debug\criptografar.pdb
+C:\Users\User\OneDrive\Área de Trabalho\FMU\4° Semestre\Seguranca e Auditoria de Sistemas\APS\criptografar\criptografar\obj\Debug\criptografar.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\FMU\4° Semestre\Seguranca e Auditoria de Sistemas\APS\criptografar\criptografar\obj\Debug\criptografar.Form1.resources
+C:\Users\User\OneDrive\Área de Trabalho\FMU\4° Semestre\Seguranca e Auditoria de Sistemas\APS\criptografar\criptografar\obj\Debug\criptografar.Properties.Resources.resources
+C:\Users\User\OneDrive\Área de Trabalho\FMU\4° Semestre\Seguranca e Auditoria de Sistemas\APS\criptografar\criptografar\obj\Debug\criptografar.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Área de Trabalho\FMU\4° Semestre\Seguranca e Auditoria de Sistemas\APS\criptografar\criptografar\obj\Debug\criptografar.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\FMU\4° Semestre\Seguranca e Auditoria de Sistemas\APS\criptografar\criptografar\obj\Debug\criptografar.exe
+C:\Users\User\OneDrive\Área de Trabalho\FMU\4° Semestre\Seguranca e Auditoria de Sistemas\APS\criptografar\criptografar\obj\Debug\criptografar.pdb
+C:\Users\User\OneDrive\Área de Trabalho\FMU\4° Semestre\Seguranca e Auditoria de Sistemas\APS\criptografar\criptografar\obj\Debug\criptografar.frmDescriptografar.resources
